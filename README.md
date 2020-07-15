@@ -1,6 +1,6 @@
 　ipynbファイルをクリックするとJupyter notebook形式のファイルが表示されます。先頭にある「Open in Colab」ボタンを押すと、Google Colab上で実行できます。使用環境は、Google Colab が動作すれば、どんなものでも構いません。
 
-# DeZero_generate_japanese_text.ipynb
+# Generate_japanese_text.ipynb
 　今年の４月、「ゼロから作るDeep Learning3 フレームワーク編」が発売されました。\
 ゼロ作は１・２と読んでいて大変勉強になったので、今度はフレームワーク編に挑戦することにしました。\
 ということで最近本を購入したのですが、１ステップづつ勉強を始める前に、まずフレームワークの全体像をザッと知るために、とりあえずコードを書いてみようと思いました。\
